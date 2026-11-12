@@ -1,0 +1,15 @@
+# Binaries and build output
+bin/
+*.exe
+*.test
+*.prof
+
+# Database persistence files
+*.aof
+*.rdb
+
+# IDE & OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
